@@ -1,7 +1,0 @@
-hello.py
-test_hello.py
-report.json
-.python-version
-.venv
-.pytest_cache
-__pycache__

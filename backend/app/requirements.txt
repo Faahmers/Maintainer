@@ -1,9 +1,0 @@
-fastapi
-uvicorn
-python-dotenv
-requests
-pipreqs
-2to3
-Black
-langchain_google_genai
-dotenv
